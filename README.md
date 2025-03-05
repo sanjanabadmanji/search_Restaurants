@@ -1,5 +1,3 @@
-# search_Restaurants
-
 # README
 
 ## Overview
@@ -40,7 +38,7 @@ Replace `script_name.py` with the actual script filename.
 ### Example
 **Input:**
 ```
-Enter the name of a city: New York
+Enter the name of a city: Bengaluru
 ```
 
 **Output:**
